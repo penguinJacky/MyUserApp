@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyUserApp</string>
+    <string name="add_user_txt">添加用户数据</string>
+    <string name="title_tct">添加用户</string>
+    <string name="name_txt">输入姓名</string>
+    <string name="phone_txt">输入手机号</string>
+    <string name="address_txt">输入地址</string>
+    <string name="yes_txt">Yes</string>
+    <string name="no_txt">No</string>
+    <string name="avatar_txt">用户头像</string>
+    <string name="male_txt">男</string>
+    <string name="female_txt">女</string>
+</resources>
